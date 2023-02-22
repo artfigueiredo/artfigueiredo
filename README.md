@@ -1,7 +1,8 @@
 ## Olá eu sou a Arthur Figueiredo 👋
 
 
-- 🔭 Atualmente sou instrutor de informática
+- 💼 Atualmente sou instrutor de informática
+- 🔭 Conhecendo novas tecnologias
 - 🌱 Estou estudando C#
 
 <!--
